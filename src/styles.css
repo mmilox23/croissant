@@ -1,4 +1,4 @@
-body {background: #978019;
+body {background: #bb8614;
 
 }
 h1,h2 {
@@ -6,4 +6,7 @@ h1,h2 {
 }
 img {
     display: block;
+}
+a {
+    color: #722705;
 }
